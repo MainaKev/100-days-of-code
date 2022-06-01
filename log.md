@@ -4,5 +4,5 @@
 
 **Today's Progress**: I've gone through introduction to Javascript.
 
-**Thoughts** I've recently started learning new coding, and it's a great feeling 
+**Thoughts**: I've recently started learning new coding, and it's a great feeling 
 
